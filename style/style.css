@@ -122,6 +122,7 @@
 }
 .gallery-image {
   width: 400px;
+  border: 4px solid #fff;
 }
 .our-features {
   margin-left: 120px;
